@@ -1,0 +1,25 @@
+{
+  "name": "2-ipfs-rescue",
+  "version": "1.0.0",
+  "description": "A project to rescue kittens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittypartydefi/2-ipfs-rescue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittypartydefi/2-ipfs-rescue/issues"
+  },
+  "homepage": "https://github.com/kittypartydefi/2-ipfs-rescue#readme",
+  "dependencies": {
+    "@pinata/ipfs-gateway-tools": "^1.1.6",
+    "@pinata/sdk": "^1.1.23",
+    "async-await-queue": "^1.2.0",
+    "nodejs-file-downloader": "^4.7.4"
+  }
+}
